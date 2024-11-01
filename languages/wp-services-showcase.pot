@@ -1,0 +1,226 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Wp Services Showcase\n"
+"POT-Creation-Date: 2016-04-06 22:28+0600\n"
+"PO-Revision-Date: 2016-04-06 22:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-services-showcase.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/classes/rtWPSAjaxResponse.php:21
+msgid "Settings successfully updated"
+msgstr ""
+
+#: lib/classes/rtWPSAjaxResponse.php:24
+msgid "Security Error !!"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:22
+msgid "Services"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:23
+msgid "Service"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:24 lib/classes/rtWPSInit.php:26
+msgid "Add New Service"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:25
+msgid "All Services"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:27
+msgid "Edit Service"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:28
+msgid "New Service"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:29
+msgid "View Service"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:30
+msgid "Search Services"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:31
+msgid "No Services found"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:32
+msgid "No Services found in Trash"
+msgstr ""
+
+#: lib/classes/rtWPSInit.php:130
+msgid "Settings"
+msgstr ""
+
+#: lib/classes/rtWPSShortCode.php:98
+msgid "No service found"
+msgstr ""
+
+#: lib/classes/rtWPServiceMeta.php:52
+msgid "Service Information"
+msgstr ""
+
+#: lib/views/settings.php:5
+msgid "Wp Services Showcases Settings"
+msgstr ""
+
+#: lib/views/settings.php:6
+msgid "General settings"
+msgstr ""
+
+#: lib/views/settings.php:7 lib/views/settings.php:35
+msgid "Documentation"
+msgstr ""
+
+#: lib/views/settings.php:26
+msgid "Short Code"
+msgstr ""
+
+#: lib/views/settings.php:29
+msgid "layout = layout id (grid/list)"
+msgstr ""
+
+#: lib/views/settings.php:30
+msgid "display-per-row = integer number (1,2,3,4,6)"
+msgstr ""
+
+#: lib/views/settings.php:31
+msgid "order (ASC/DESC)"
+msgstr ""
+
+#: lib/views/settings.php:32
+msgid "orderby (date/title/ID/menu_order/rand)"
+msgstr ""
+
+#: lib/views/settings.php:33
+msgid ""
+"icon-color,icon-hover-color,service-title-color,service-title-hover-color =  "
+"color field, only support hex value like (#729e22)"
+msgstr ""
+
+#: lib/views/settings.php:34
+msgid "read-more = (0/10 by default is 1"
+msgstr ""
+
+#: lib/views/settings.php:35
+msgid "Demo"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:2
+#: lib/views/shortcode/wps-generator.php:31
+msgid "Options"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:5
+msgid "Wp Service ShortCode Generator"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:11
+msgid "Layout"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:13
+msgid "Grid"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:14
+msgid "List"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:18
+msgid "Display per row"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:20
+msgid "2 Per row"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:21
+msgid "3 Per row"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:22
+msgid "4 Per row"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:23
+msgid "6 Per row"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:27
+msgid "Limit"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:38
+msgid "Order By"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:49
+msgid "Short Description Limit"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:57
+msgid "Icon size"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:67
+msgid "Icon color"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:71
+msgid "Icon hover color"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:75
+msgid "Service title color"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:79
+msgid "Service title hover color"
+msgstr ""
+
+#: lib/views/shortcode/wps-generator.php:83
+msgid "Read more"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wp Services Showcase"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://demo.radiustheme.com/wordpress/plugins/the-post-grid/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fully Responsive and Mobile Friendly way to showcase your services or "
+"products on your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RadiusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://radiustheme.com/"
+msgstr ""
